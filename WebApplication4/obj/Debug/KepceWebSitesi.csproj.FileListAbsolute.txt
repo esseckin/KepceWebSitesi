@@ -1,0 +1,6 @@
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\bin\WebApplication4.dll.config
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\bin\WebApplication4.dll
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\bin\WebApplication4.pdb
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\obj\Debug\KepceWebSitesi.csprojResolveAssemblyReference.cache
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\obj\Debug\WebApplication4.dll
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\obj\Debug\WebApplication4.pdb

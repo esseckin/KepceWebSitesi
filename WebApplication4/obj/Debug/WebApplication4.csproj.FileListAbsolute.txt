@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\bin\WebApplication4.dll.config
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\bin\WebApplication4.dll
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\bin\WebApplication4.pdb
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\obj\Debug\WebApplication4.dll
+F:\alıstırmalar\githuba at 26 temmuz 2016 kepce veb sitesi\WebApplication4\obj\Debug\WebApplication4.pdb
